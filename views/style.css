@@ -1,0 +1,9 @@
+.logoContainer {
+  margin-left: 0px;
+}
+
+#downloadButton {
+  position: fixed;
+  bottom: 40px;
+  right: 40px;
+}
